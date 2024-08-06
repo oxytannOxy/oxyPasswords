@@ -16,7 +16,7 @@
 
 ## For what ???
 
-OxyPasswords is a simple and secure password manager built with Python. The project features a graphical user interface (GUI) for easy interaction, allowing users to store and manage their passwords securely. It aims to provide a user-friendly experience with essential functionalities for password management. The repository includes all necessary scripts and dependencies to get started. Contributions are welcome as the project is in its early stages of development.
+OxyPasswords is a simple password manager built with Python. The project features a graphical user interface (GUI) for easy interaction, allowing users to store and manage their passwords securely. It aims to provide a user-friendly experience with essential functionalities for password management. The repository includes all necessary scripts and dependencies to get started. Contributions are welcome as the project is in its early stages of development.
 
 ![ss](https://i.ibb.co/K284fG1/Screenshot-2024-08-05-233203.png)
 
