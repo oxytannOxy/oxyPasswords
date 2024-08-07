@@ -58,4 +58,4 @@ python main.py
 
 ![Static Badge](https://img.shields.io/badge/oxytann-blue?style=flat)
 
-[Oxytann](https://t.me/Loading_ggggg) 😌
+[Oxytann](https://t.me/oxytann) 😌
